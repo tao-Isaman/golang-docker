@@ -1,2 +1,3 @@
 ## hello Golang with Docker
-	install Docker
+  >install Docker
+  - docker-compose up
